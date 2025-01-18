@@ -1,0 +1,7 @@
+src
+script
+.idea
+rollup.config.ts
+*.tgz
+.gitignore
+dist/types

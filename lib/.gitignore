@@ -1,0 +1,6 @@
+.idea
+*.zip
+node_modules
+dist
+*.tgz
+script/assets/remix-icon
