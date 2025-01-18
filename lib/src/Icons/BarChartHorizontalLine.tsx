@@ -7,6 +7,7 @@ const RemixIcon = (props: SvgProps) => (
     fill="currentColor"
     width={24}
     height={24}
+    color="#000"
     {...props}
   >
     <Path d="M12 3V5H3V3H12ZM16 19V21H3V19H16ZM22 11V13H3V11H22Z" />

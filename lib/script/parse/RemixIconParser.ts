@@ -59,6 +59,9 @@ export class RemixIconParser {
                 native: true,
                 exportType: 'named',
                 namedExport: pascalCaseFileName,
+                svgProps: {
+                    color: '#000',
+                },
                 svgoConfig: {
                     plugins: [
                         "removeXMLNS"
